@@ -1,0 +1,4 @@
+@EndUserText.label: 'CDS service definition for ZAJ_DDL_FIORI_1'
+define service ZAJ_CDS_SRV_DEF {
+  expose ZAJ_DDL_FIORI_1;
+}
